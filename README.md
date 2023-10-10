@@ -8,12 +8,12 @@
 - 💬 Get in [contact](mailto:marvinsd@gmail.com)
 
 ## <p align="center"> Tech Stack </p>
-<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center; justify-content: center; margin: 0 auto;">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,postgres,mysql,react,nodejs,express,jest,prisma&perline=4" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcusdantas&hide=hack&layout=compact&theme=codeSTACKr" />
   </a>
-</div></p>
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0070E3&height=90&section=footer"/>
