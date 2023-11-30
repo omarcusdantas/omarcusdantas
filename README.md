@@ -11,54 +11,12 @@
 
 
 ## Tech Stack
-<div style="display:flex; justify-content:center; gap:30px;">
-  <div style="display:flex; justify-content:center; gap:8px; width: 300px;
-  flex-wrap:wrap">
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=js" alt="JS" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TS" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-    </a>
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-    </a>  
-  </div>
+<p align="center" style="display:flex; justify-content:center; gap:30px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,postgres,mysql,react,nodejs,express,jest,prisma,aws&perline=5" />
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcusdantas&hide=hack&layout=compact&theme=codeSTACKr" />
   </a>
-</div>
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0070E3&height=90&section=footer"/>
