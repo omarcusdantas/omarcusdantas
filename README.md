@@ -13,7 +13,7 @@
 ## Tech Stack
 <p align="center" style="display:flex; justify-content:center; gap:30px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,postgres,mysql,react,nodejs,express,jest,prisma,aws&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,postgres,mysql,react,nodejs,express,jest,prisma,aws&perline=5" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcusdantas&hide=hack&layout=compact&theme=codeSTACKr" />
