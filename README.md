@@ -7,14 +7,14 @@
 ## I'm a developer, a science enthusiast and a longlife learner
 - 📖 Always learning and teaching
 - ✍ You can check my portfolio [here](https://omarcusdantas.github.io/)
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m currently learning Next.js
 - 💬 Get in [contact](mailto:marvinsd@gmail.com)
 
 
 ## Tech Stack
 <p align="center" style="display:flex; justify-content:center; gap:30px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,postgres,mysql,react,nodejs,express,jest,prisma,docker,aws&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,react,dotnet,nodejs,express,mongodb,postgres,mysql,docker,azure&perline=5" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcusdantas&hide=hack&layout=compact&theme=codeSTACKr" />
