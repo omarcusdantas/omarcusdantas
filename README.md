@@ -14,7 +14,7 @@
 ## Tech Stack
 <p align="center" style="display:flex; justify-content:center; gap:30px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,react,dotnet,nodejs,express,mongodb,postgres,mysql,docker,azure&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,dotnet,mongodb,postgres,prisma,redis,docker,aws,graphql,rabbitmq,redux,html,css,js,ts,cs&perline=5" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcusdantas&hide=hack&layout=compact&theme=codeSTACKr" />
