@@ -7,7 +7,7 @@
 ## I'm a developer, a science enthusiast and a longlife learner
 - 📖 Always learning and teaching
 - ✍ You can check my portfolio [here](https://omarcusdantas.github.io/)
-- 👯 I’m currently learning Next.js (check the project [here](https://github.com/omarcusdantas/marcusdantas))
+- 👯 I’m currently learning Next.js (check the project [here](https://github.com/omarcusdantas/job-ready))
 - 💬 Get in [contact](mailto:marvinsd@gmail.com)
 
 
