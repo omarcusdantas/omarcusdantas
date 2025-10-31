@@ -6,9 +6,8 @@
 
 ## I'm a developer, a science enthusiast and a longlife learner
 - 📖 Always learning and teaching
-- ✍ You can check my portfolio [here](https://omarcusdantas.github.io/)
 - 👯 I’m currently improving my Next.js skills (ai-sdk, cache-tag) (check the project [here](https://github.com/omarcusdantas/job-ready))
-- 💬 Get in [contact](mailto:marvinsd@gmail.com)
+- 💬 Get in [contact](mailto:omarcusdantas@gmail.com)
 
 
 ## Tech Stack
