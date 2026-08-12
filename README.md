@@ -6,7 +6,7 @@
 
 ## I'm a developer, a science enthusiast and a longlife learner
 - 📖 Always learning and teaching
-- 👯 I’m currently improving my Next.js skills (ai-sdk, cache-tag) (check the project [here](https://github.com/omarcusdantas/job-ready))
+- 👯 I’m currently improving my AI skills (RAG, AI Agents, Vector Databases).
 - 💬 Get in [contact](mailto:omarcusdantas@gmail.com)
 
 
